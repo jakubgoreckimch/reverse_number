@@ -1,4 +1,8 @@
 #include<stdio.h>
+#include<math.h>
+
+int function(int number);
+int counter(int number);
 
 int main()
 {
